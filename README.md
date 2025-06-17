@@ -46,9 +46,4 @@ This project focuses on developing a machine learning-based classification syste
 
 ---
 
-## 🧪 How to Run
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/airline-satisfaction-analysis.git
-   cd airline-satisfaction-analysis
